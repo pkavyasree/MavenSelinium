@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="98" started-at="2019-07-18T05:16:07Z" finished-at="2019-07-18T05:16:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="98" started-at="2019-07-18T05:16:07Z" finished-at="2019-07-18T05:16:07Z">
+      <class name="com.Framework.moven_moduleTest.CreateTest1">
+        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest1@2eee9593]" name="createcustomer" duration-ms="2" started-at="2019-07-18T10:46:07Z" finished-at="2019-07-18T10:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomer -->
+      </class> <!-- com.Framework.moven_moduleTest.CreateTest1 -->
+      <class name="com.Framework.moven_moduleTest.MyTest">
+        <test-method status="PASS" signature="myTestScript()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@2aafb23c]" name="myTestScript" duration-ms="42" started-at="2019-07-18T10:46:07Z" finished-at="2019-07-18T10:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTestScript -->
+      </class> <!-- com.Framework.moven_moduleTest.MyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

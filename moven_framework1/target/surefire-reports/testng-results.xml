@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2019-07-18T06:48:44Z" finished-at="2019-07-18T06:48:44Z">
+    <groups>
+      <group name="RegressionTest">
+        <method signature="CreateTest.createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@3c5a99da]" name="createcustomerTest" class="com.Framework.moven_moduleTest.CreateTest"/>
+      </group> <!-- RegressionTest -->
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2019-07-18T06:48:44Z" finished-at="2019-07-18T06:48:44Z">
+      <class name="com.Framework.moven_moduleTest.CreateTest">
+        <test-method status="PASS" signature="createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@3c5a99da]" name="createcustomerTest" duration-ms="15" started-at="2019-07-18T12:18:44Z" finished-at="2019-07-18T12:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomerTest -->
+      </class> <!-- com.Framework.moven_moduleTest.CreateTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
