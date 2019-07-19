@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="62" started-at="2019-07-19T16:23:26Z" finished-at="2019-07-19T16:23:26Z">
+  <suite name="Suite" duration-ms="125" started-at="2019-07-19T17:30:14Z" finished-at="2019-07-19T17:30:14Z">
     <groups>
       <group name="SanityTest">
         <method signature="CreateTest.createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@28864e92]" name="createcustomer" class="com.Framework.moven_moduleTest.CreateTest"/>
@@ -11,23 +11,23 @@
         <method signature="MyTest.my3Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my3Test" class="com.Framework.moven_moduleTest.MyTest"/>
       </group> <!-- SanityTest -->
     </groups>
-    <test name="Test" duration-ms="62" started-at="2019-07-19T16:23:26Z" finished-at="2019-07-19T16:23:26Z">
+    <test name="Test" duration-ms="125" started-at="2019-07-19T17:30:14Z" finished-at="2019-07-19T17:30:14Z">
       <class name="com.Framework.moven_moduleTest.CreateTest">
-        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@28864e92]" name="createcustomer" duration-ms="31" started-at="2019-07-19T21:53:26Z" finished-at="2019-07-19T21:53:26Z">
+        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@28864e92]" name="createcustomer" duration-ms="47" started-at="2019-07-19T23:00:14Z" finished-at="2019-07-19T23:00:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createcustomer -->
       </class> <!-- com.Framework.moven_moduleTest.CreateTest -->
       <class name="com.Framework.moven_moduleTest.MyTest">
-        <test-method status="PASS" signature="my1Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my1Test" duration-ms="0" started-at="2019-07-19T21:53:26Z" finished-at="2019-07-19T21:53:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- my1Test -->
-        <test-method status="PASS" signature="my2Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my2Test" duration-ms="0" started-at="2019-07-19T21:53:26Z" finished-at="2019-07-19T21:53:26Z">
+        <test-method status="PASS" signature="my2Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my2Test" duration-ms="0" started-at="2019-07-19T23:00:14Z" finished-at="2019-07-19T23:00:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- my2Test -->
-        <test-method status="PASS" signature="my3Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my3Test" duration-ms="0" started-at="2019-07-19T21:53:26Z" finished-at="2019-07-19T21:53:26Z">
+        <test-method status="PASS" signature="my1Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my1Test" duration-ms="0" started-at="2019-07-19T23:00:14Z" finished-at="2019-07-19T23:00:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- my1Test -->
+        <test-method status="PASS" signature="my3Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@1b40d5f0]" name="my3Test" duration-ms="16" started-at="2019-07-19T23:00:14Z" finished-at="2019-07-19T23:00:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- my3Test -->
