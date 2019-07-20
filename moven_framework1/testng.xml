@@ -12,6 +12,7 @@
     <classes>
       <class name="com.Framework.moven_moduleTest.CreateTest"/>
     <class name= "com.Framework.moven_moduleTest.MyTest"/>
+    <class name= "com.Framework.moven_moduleTest.UserNameTest"/>
     
     </classes>
   </test> <!-- Test -->
