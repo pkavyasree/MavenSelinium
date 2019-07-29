@@ -4,13 +4,8 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 public class CreateTest {
 		
-	@Test(groups="SanityTest")
-	public void createcustomer() {
-	System.out.println("createcustomer15555 created");	
 		
-	}
-	
-	@Test(groups="RegressionTest")
+	@Test()  //groups="RegressionTest"
 	public void createcustomeraTest() {
 		
 		String expected="xyz";
