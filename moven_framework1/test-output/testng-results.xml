@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="80" started-at="2019-07-29T04:36:12Z" finished-at="2019-07-29T04:36:12Z">
+  <suite name="Suite" duration-ms="156" started-at="2019-07-29T08:31:08Z" finished-at="2019-07-29T08:31:08Z">
     <groups>
-      <group name="SanityTest">
-        <method signature="CreateTest.createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomer" class="com.Framework.moven_moduleTest.CreateTest"/>
-      </group> <!-- SanityTest -->
-      <group name="RegressionTest">
-        <method signature="CreateTest.createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomerTest" class="com.Framework.moven_moduleTest.CreateTest"/>
-      </group> <!-- RegressionTest -->
     </groups>
-    <test name="Test" duration-ms="80" started-at="2019-07-29T04:36:12Z" finished-at="2019-07-29T04:36:12Z">
+    <test name="Test" duration-ms="156" started-at="2019-07-29T08:31:08Z" finished-at="2019-07-29T08:31:08Z">
       <class name="com.Framework.moven_moduleTest.CreateTest">
-        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomer" duration-ms="37" started-at="2019-07-29T10:06:12Z" finished-at="2019-07-29T10:06:12Z">
+        <test-method status="PASS" signature="avalidatecustomeraTest()[pri:1, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="avalidatecustomeraTest" duration-ms="78" started-at="2019-07-29T14:01:08Z" finished-at="2019-07-29T14:01:08Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createcustomer -->
-        <test-method status="PASS" signature="createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomerTest" duration-ms="2" started-at="2019-07-29T10:06:12Z" finished-at="2019-07-29T10:06:12Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createcustomerTest -->
+        </test-method> <!-- avalidatecustomeraTest -->
       </class> <!-- com.Framework.moven_moduleTest.CreateTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
