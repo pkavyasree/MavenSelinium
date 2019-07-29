@@ -1,37 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="193" started-at="2019-07-19T11:42:20Z" finished-at="2019-07-19T11:42:20Z">
+  <suite name="Suite" duration-ms="80" started-at="2019-07-29T04:36:12Z" finished-at="2019-07-29T04:36:12Z">
     <groups>
       <group name="SanityTest">
-        <method signature="CreateTest.createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@7907ec20]" name="createcustomer" class="com.Framework.moven_moduleTest.CreateTest"/>
-        <method signature="MyTest.my1Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my1Test" class="com.Framework.moven_moduleTest.MyTest"/>
-        <method signature="MyTest.my2Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my2Test" class="com.Framework.moven_moduleTest.MyTest"/>
-        <method signature="MyTest.my3Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my3Test" class="com.Framework.moven_moduleTest.MyTest"/>
+        <method signature="CreateTest.createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomer" class="com.Framework.moven_moduleTest.CreateTest"/>
       </group> <!-- SanityTest -->
+      <group name="RegressionTest">
+        <method signature="CreateTest.createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomerTest" class="com.Framework.moven_moduleTest.CreateTest"/>
+      </group> <!-- RegressionTest -->
     </groups>
-    <test name="Test" duration-ms="193" started-at="2019-07-19T11:42:20Z" finished-at="2019-07-19T11:42:20Z">
+    <test name="Test" duration-ms="80" started-at="2019-07-29T04:36:12Z" finished-at="2019-07-29T04:36:12Z">
       <class name="com.Framework.moven_moduleTest.CreateTest">
-        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@7907ec20]" name="createcustomer" duration-ms="109" started-at="2019-07-19T17:12:20Z" finished-at="2019-07-19T17:12:20Z">
+        <test-method status="PASS" signature="createcustomer()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomer" duration-ms="37" started-at="2019-07-29T10:06:12Z" finished-at="2019-07-29T10:06:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createcustomer -->
+        <test-method status="PASS" signature="createcustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@34340fab]" name="createcustomerTest" duration-ms="2" started-at="2019-07-29T10:06:12Z" finished-at="2019-07-29T10:06:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomerTest -->
       </class> <!-- com.Framework.moven_moduleTest.CreateTest -->
-      <class name="com.Framework.moven_moduleTest.MyTest">
-        <test-method status="PASS" signature="my1Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my1Test" duration-ms="3" started-at="2019-07-19T17:12:20Z" finished-at="2019-07-19T17:12:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- my1Test -->
-        <test-method status="PASS" signature="my2Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my2Test" duration-ms="3" started-at="2019-07-19T17:12:20Z" finished-at="2019-07-19T17:12:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- my2Test -->
-        <test-method status="PASS" signature="my3Test()[pri:0, instance:com.Framework.moven_moduleTest.MyTest@28864e92]" name="my3Test" duration-ms="2" started-at="2019-07-19T17:12:20Z" finished-at="2019-07-19T17:12:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- my3Test -->
-      </class> <!-- com.Framework.moven_moduleTest.MyTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

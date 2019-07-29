@@ -3,7 +3,7 @@
 <suite name="Suite" parallel="tests">
 <!-- <groups>
 <run>
-<include name="SanityTest">
+<include name="Regression">
 </include>
 </run>
 </groups> -->
@@ -11,9 +11,7 @@
   <test name="Test">
     <classes>
       <class name="com.Framework.moven_moduleTest.CreateTest"/>
-    <class name= "com.Framework.moven_moduleTest.MyTest"/>
-    <class name= "com.Framework.moven_moduleTest.UserNameTest"/>
-    
+        
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
