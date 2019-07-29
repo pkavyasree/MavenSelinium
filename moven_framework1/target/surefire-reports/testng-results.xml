@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="110" started-at="2019-07-29T08:40:38Z" finished-at="2019-07-29T08:40:38Z">
+  <suite name="Suite" duration-ms="141" started-at="2019-07-29T11:27:07Z" finished-at="2019-07-29T11:27:07Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="110" started-at="2019-07-29T08:40:38Z" finished-at="2019-07-29T08:40:38Z">
+    <test name="Test" duration-ms="141" started-at="2019-07-29T11:27:07Z" finished-at="2019-07-29T11:27:07Z">
       <class name="com.Framework.moven_moduleTest.CreateTest">
-        <test-method status="PASS" signature="abalidatecustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="abalidatecustomerTest" duration-ms="31" started-at="2019-07-29T14:10:38Z" finished-at="2019-07-29T14:10:38Z">
+        <test-method status="PASS" signature="abalidatecustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="abalidatecustomerTest" duration-ms="31" started-at="2019-07-29T16:57:07Z" finished-at="2019-07-29T16:57:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abalidatecustomerTest -->
-        <test-method status="PASS" signature="avalidatecustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="avalidatecustomerTest" duration-ms="16" started-at="2019-07-29T14:10:38Z" finished-at="2019-07-29T14:10:38Z">
+        <test-method status="PASS" signature="avalidatecustomerTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="avalidatecustomerTest" duration-ms="0" started-at="2019-07-29T16:57:07Z" finished-at="2019-07-29T16:57:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- avalidatecustomerTest -->
-        <test-method status="PASS" signature="avalidatecustomeraTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="avalidatecustomeraTest" duration-ms="0" started-at="2019-07-29T14:10:38Z" finished-at="2019-07-29T14:10:38Z">
+        <test-method status="PASS" signature="avalidatecustomeraTest()[pri:0, instance:com.Framework.moven_moduleTest.CreateTest@6442b0a6]" name="avalidatecustomeraTest" duration-ms="16" started-at="2019-07-29T16:57:07Z" finished-at="2019-07-29T16:57:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- avalidatecustomeraTest -->
