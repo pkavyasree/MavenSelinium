@@ -7,7 +7,8 @@ public class CreateTest {
 	@Test(priority=2)  //"
 	public void avalidatecustomeraTest() {
 	
-	System.out.println("validatedcustomer111 created");
+	
+	Assert.assertEquals("Banglore","Banglore");
 	}
 
 	@Test(priority=1)  //groups="RegressionTest"
@@ -17,8 +18,9 @@ public class CreateTest {
 	}
 	
 	@Test()  //groups="RegressionTest"
-	public void abalidatecustomerTest() {
+	public void ValidatecustomerTest() {
 	
+		Assert.assertEquals("ravi", "Ravi");
 	System.out.println("validatedcustomer333 created");
 	}
 		

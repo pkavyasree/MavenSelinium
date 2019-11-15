@@ -3,10 +3,9 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.Framework.moven_moduleTest.UserNameTest"/>
+     
       <class name="com.Framework.moven_moduleTest.CreateTest"/>
-      <class name="com.Framework.moven_moduleTest.MyTest"/>
-      <class name="com.Framework.moven_moduleTest.NewClassTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
