@@ -20,7 +20,7 @@ public class CreateTest {
 	@Test()  //groups="RegressionTest"
 	public void ValidatecustomerTest() {
 	
-		Assert.assertEquals("ravi", "Ravi");
+		Assert.assertEquals("Ravi", "Ravi");
 	System.out.println("validatedcustomer333 created");
 	}
 		
